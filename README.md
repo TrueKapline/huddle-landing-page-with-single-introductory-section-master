@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-cuaDW1Snle)
+- [Live site URL](http://kapline.me/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
